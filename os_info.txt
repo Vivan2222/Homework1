@@ -2,4 +2,4 @@ OS info is
 uname_result(system='Windows', node='Lenovo-PC', release='10', version='10.0.19044', machine='AMD64')
 
 Python version is 3.9.13 (main, Aug 25 2022, 23:51:50) [MSC v.1916 64 bit (AMD64)] ('64bit', 'WindowsPE')
-dasdasdas
+https://pastenow.ru/b1e8f7221838898a52b923942b51ea5b
